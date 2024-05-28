@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ProfessionalWebsite/static/css/main.f64c2bba.css",
+    "main.js": "/ProfessionalWebsite/static/js/main.56432217.js",
+    "static/js/453.aac68abc.chunk.js": "/ProfessionalWebsite/static/js/453.aac68abc.chunk.js",
+    "static/media/github2.png": "/ProfessionalWebsite/static/media/github2.505103b720239831d24e.png",
+    "static/media/python.png": "/ProfessionalWebsite/static/media/python.82efb64f8698a267f8bf.png",
+    "static/media/gmail1.png": "/ProfessionalWebsite/static/media/gmail1.3d5841f52fa50c92316f.png",
+    "static/media/java.png": "/ProfessionalWebsite/static/media/java.fdabd4e11f1235e4e8e0.png",
+    "static/media/resume.pdf": "/ProfessionalWebsite/static/media/resume.6e7447d1261c36d897e4.pdf",
+    "static/media/html.png": "/ProfessionalWebsite/static/media/html.9ba5683e5bf3666e5666.png",
+    "static/media/cpp.png": "/ProfessionalWebsite/static/media/cpp.f4f4c427bd0bc8e219d4.png",
+    "static/media/css.png": "/ProfessionalWebsite/static/media/css.58dfbebae4a02001b50e.png",
+    "index.html": "/ProfessionalWebsite/index.html",
+    "main.f64c2bba.css.map": "/ProfessionalWebsite/static/css/main.f64c2bba.css.map",
+    "main.56432217.js.map": "/ProfessionalWebsite/static/js/main.56432217.js.map",
+    "453.aac68abc.chunk.js.map": "/ProfessionalWebsite/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f64c2bba.css",
+    "static/js/main.56432217.js"
+  ]
+}
