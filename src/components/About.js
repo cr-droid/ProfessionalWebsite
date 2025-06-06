@@ -35,9 +35,10 @@ const About = () => (
   which strengthened my liking of computers. And I eventually decided to pursue an education in computer science. I like to watch the NBA,
   NFL, and occassionally MLB. I spend most of my free time going to the gym or learning about new technologies.
     </p>
-    <ResumeLink href={resume} target="_blank">
-      View Resume
+    <ResumeLink href={`${resume}?v=${Date.now()}`} target="_blank">
+    View Resume
     </ResumeLink>
+
   </Section>
 );
 
