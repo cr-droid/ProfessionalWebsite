@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import resume from '../assets/resume.pdf';
+import resume from '../assets/cs_resume.pdf';
 
 const Section = styled.section`
   text-align: center;
